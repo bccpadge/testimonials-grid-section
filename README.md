@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-using-css-grid-igiO1CvG0n)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/testimonials-grid-section/)
 
 ## My process
 
